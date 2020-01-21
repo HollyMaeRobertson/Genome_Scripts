@@ -2,3 +2,5 @@
 
 ###Scripts Included
 
+genome_reader.py
+
